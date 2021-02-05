@@ -1,5 +1,5 @@
 # Housing-Prediction
-Factors influencing the future prices of recidential houses
+Factors influencing the future prices of residential houses
 
 
 Goal : Predicting selling price of the House
@@ -35,9 +35,9 @@ TAX and INDUS with 0.72.
 AGE and NOX with 0.73.
 DIS and NOX with -0.78.
 
-2. Factors like Average room size(RM), more rooms implys more space and more costs, therfore it affects price. 
+2. Factors like Average room size(RM), more rooms implys more space and more costs, therefore it affects price. 
 
-3. Lower class locality (LSTAT), unsafe area therefore they have low demand. And they tend to have lower prices
+3. Lower class locality (LSTAT), unsafe area therefore they have low demand. And they tend to have lower price.
 
 4. Also every parent wants their kids to attend good school, therefore PTRATIO i.e student to teacher ratio by
 town affects the price of the house. Families prefer to live in the locality where good schools are located. 
