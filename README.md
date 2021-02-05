@@ -10,6 +10,7 @@ Statistical Area (SMSA) in 1970. The attributes are defined as follows (taken fr
 Machine Learning Repository 1 ):
 
 Dataset : (504r,15col), Target : MEDV(price for buyers house)
+
 Features : 
 1. CRIM: per capita crime rate by town
 2. ZN: proportion of residential land zoned for lots over 25,000 sq.ft.
